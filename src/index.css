@@ -313,6 +313,9 @@ Form
   font-size: 1.2rem;
   outline: none;
 }
+::placeholder {
+  font-family: "Overlock";
+}
 /* 
 ====== 
 Cocktail
