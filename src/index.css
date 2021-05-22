@@ -210,10 +210,10 @@ Error
 Cocktails List 
 ======
 */
-/* 
+
 .section {
-  padding: 5rem 0;
-} */
+  padding-bottom: 5rem;
+}
 .section-title {
   font-size: 2rem;
   text-transform: capitalize;
